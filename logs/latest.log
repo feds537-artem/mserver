@@ -1,0 +1,8 @@
+[22:26:24] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.9+7-LTS-338; Oracle Corporation null) on Linux 6.6.87.2-microsoft-standard-WSL2 (amd64)
+[22:26:24] [ServerMain/INFO]: [bootstrap] Loading Folia 1.21.8-6-ver/1.21.8@612d9bd (2025-09-30T14:11:15Z) for Minecraft 1.21.8
+[22:26:25] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:26:25] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[22:26:26] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
+[22:26:35] [ServerMain/WARN]: Failed to load eula.txt
+[22:26:35] [ServerMain/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[22:26:42] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 15884ms.
