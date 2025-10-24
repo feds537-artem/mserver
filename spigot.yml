@@ -47,6 +47,7 @@ advancements:
   - minecraft:story/disabled
 world-settings:
   default:
+    verbose: false
     below-zero-generation-in-existing-chunks: true
     view-distance: default
     simulation-distance: default
