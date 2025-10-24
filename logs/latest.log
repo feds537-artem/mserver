@@ -1,49 +1,7 @@
-[04:28:32] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.9+7-LTS-338; Oracle Corporation null) on Linux 6.6.87.2-microsoft-standard-WSL2 (amd64)
-[04:28:32] [ServerMain/INFO]: [bootstrap] Loading Folia 1.21.8-6-ver/1.21.8@612d9bd (2025-09-30T14:11:15Z) for Minecraft 1.21.8
-[04:28:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:28:34] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/BetterHud-bukkit-1.14.0.jar'...
-[04:28:34] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/BetterInvisibility-4.0.1.jar'...
-[04:28:34] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/DeepSeek-1.0.7.jar'...
-[04:28:34] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/DownloadPlugin-1.0.0.jar'...
-[04:28:35] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/DownloadPlugin-1.0.0.jar' in 1064ms.
-[04:28:35] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/GoldPiglin-25.10.1-all.jar'...
-[04:28:36] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/DeepSeek-1.0.7.jar' in 1750ms.
-[04:28:36] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/HarvestEXP 2025.07.jar'...
-[04:28:36] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/GoldPiglin-25.10.1-all.jar' in 1197ms.
-[04:28:36] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/InventoryFull-1.0.jar'...
-[04:28:37] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/HarvestEXP 2025.07.jar' in 1688ms.
-[04:28:37] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/ItemJoin.jar'...
-[04:28:38] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/InventoryFull-1.0.jar' in 1272ms.
-[04:28:38] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/killc-1.0.jar'...
-[04:28:39] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/killc-1.0.jar' in 988ms.
-[04:28:39] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/KotKit-1.0.2-all.jar'...
-[04:28:39] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/BetterInvisibility-4.0.1.jar' in 5022ms.
-[04:28:39] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/NetherCalculator-1.0-SNAPSHOT.jar'...
-[04:28:39] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ItemJoin.jar' in 1775ms.
-[04:28:39] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/nonchat-1.5.2.jar'...
-[04:28:39] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/BetterHud-bukkit-1.14.0.jar' in 5749ms.
-[04:28:39] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/opentolan-1.0-ALPHA.jar'...
-[04:28:40] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/opentolan-1.0-ALPHA.jar' in 743ms.
-[04:28:40] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/Rules-1.0.0.jar'...
-[04:28:40] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/nonchat-1.5.2.jar' in 883ms.
-[04:28:40] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/stuck-5.0.jar'...
-[04:28:41] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Rules-1.0.0.jar' in 703ms.
-[04:28:41] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/Super_Farming-1.0.1.jar'...
-[04:28:41] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/stuck-5.0.jar' in 693ms.
-[04:28:41] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/tgbridge-0.8.5-paper.jar'...
-[04:28:41] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/NetherCalculator-1.0-SNAPSHOT.jar' in 2090ms.
-[04:28:41] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/voicechat-bukkit-2.6.6.jar'...
-[04:28:41] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Super_Farming-1.0.1.jar' in 626ms.
-[04:28:41] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/WeFriends.jar'...
-[04:28:42] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/KotKit-1.0.2-all.jar' in 3325ms.
-[04:28:42] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/zHomes-2.1.8.jar'...
-[04:28:42] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/voicechat-bukkit-2.6.6.jar' in 953ms.
-[04:28:42] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/zTPA-1.0.3.jar'...
-[04:28:42] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/zTPA-1.0.3.jar' in 542ms.
-[04:28:43] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/zHomes-2.1.8.jar' in 756ms.
-[04:28:43] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/tgbridge-0.8.5-paper.jar' in 2587ms.
-[04:28:47] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/WeFriends.jar' in 5835ms.
-[04:28:48] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'BetterInvisibility v4.0.1' as it is not marked as supporting Folia!
+[04:49:12] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.9+7-LTS-338; Oracle Corporation null) on Linux 6.6.87.2-microsoft-standard-WSL2 (amd64)
+[04:49:12] [ServerMain/INFO]: [bootstrap] Loading Folia 1.21.8-6-ver/1.21.8@612d9bd (2025-09-30T14:11:15Z) for Minecraft 1.21.8
+[04:49:12] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:49:15] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'BetterInvisibility v4.0.1' as it is not marked as supporting Folia!
 java.lang.RuntimeException: Could not load plugin 'BetterInvisibility v4.0.1' as it is not marked as supporting Folia!
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
@@ -58,7 +16,7 @@ java.lang.RuntimeException: Could not load plugin 'BetterInvisibility v4.0.1' as
 	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[04:28:48] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'DownloadPlugin v1.0' as it is not marked as supporting Folia!
+[04:49:15] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'DownloadPlugin v1.0' as it is not marked as supporting Folia!
 java.lang.RuntimeException: Could not load plugin 'DownloadPlugin v1.0' as it is not marked as supporting Folia!
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
@@ -73,7 +31,7 @@ java.lang.RuntimeException: Could not load plugin 'DownloadPlugin v1.0' as it is
 	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[04:28:48] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'InventoryFull v1.0' as it is not marked as supporting Folia!
+[04:49:15] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'InventoryFull v1.0' as it is not marked as supporting Folia!
 java.lang.RuntimeException: Could not load plugin 'InventoryFull v1.0' as it is not marked as supporting Folia!
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
@@ -88,7 +46,7 @@ java.lang.RuntimeException: Could not load plugin 'InventoryFull v1.0' as it is 
 	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[04:28:48] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'KotKit v1.0.2' as it is not marked as supporting Folia!
+[04:49:15] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'KotKit v1.0.2' as it is not marked as supporting Folia!
 java.lang.RuntimeException: Could not load plugin 'KotKit v1.0.2' as it is not marked as supporting Folia!
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
@@ -103,7 +61,7 @@ java.lang.RuntimeException: Could not load plugin 'KotKit v1.0.2' as it is not m
 	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[04:28:48] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'LuckPerms v5.5.17' as it is not marked as supporting Folia!
+[04:49:15] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'LuckPerms v5.5.17' as it is not marked as supporting Folia!
 java.lang.RuntimeException: Could not load plugin 'LuckPerms v5.5.17' as it is not marked as supporting Folia!
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
@@ -118,7 +76,7 @@ java.lang.RuntimeException: Could not load plugin 'LuckPerms v5.5.17' as it is n
 	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[04:28:48] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'NetherCalculator v1.0-SNAPSHOT' as it is not marked as supporting Folia!
+[04:49:15] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'NetherCalculator v1.0-SNAPSHOT' as it is not marked as supporting Folia!
 java.lang.RuntimeException: Could not load plugin 'NetherCalculator v1.0-SNAPSHOT' as it is not marked as supporting Folia!
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
@@ -133,7 +91,7 @@ java.lang.RuntimeException: Could not load plugin 'NetherCalculator v1.0-SNAPSHO
 	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[04:28:48] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'OpenToLan v1.0-ALPHA' as it is not marked as supporting Folia!
+[04:49:16] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'OpenToLan v1.0-ALPHA' as it is not marked as supporting Folia!
 java.lang.RuntimeException: Could not load plugin 'OpenToLan v1.0-ALPHA' as it is not marked as supporting Folia!
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
@@ -148,7 +106,7 @@ java.lang.RuntimeException: Could not load plugin 'OpenToLan v1.0-ALPHA' as it i
 	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[04:28:48] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'Rules v1.0.0' as it is not marked as supporting Folia!
+[04:49:16] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'Rules v1.0.0' as it is not marked as supporting Folia!
 java.lang.RuntimeException: Could not load plugin 'Rules v1.0.0' as it is not marked as supporting Folia!
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
@@ -163,7 +121,7 @@ java.lang.RuntimeException: Could not load plugin 'Rules v1.0.0' as it is not ma
 	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[04:28:48] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'Stuck v5.0' as it is not marked as supporting Folia!
+[04:49:16] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Could not load plugin 'Stuck v5.0' as it is not marked as supporting Folia!
 java.lang.RuntimeException: Could not load plugin 'Stuck v5.0' as it is not marked as supporting Folia!
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:40) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProviderFactory.build(SpigotPluginProviderFactory.java:28) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
@@ -178,58 +136,58 @@ java.lang.RuntimeException: Could not load plugin 'Stuck v5.0' as it is not mark
 	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[04:28:49] [ServerMain/INFO]: [PluginInitializerManager] Initialized 24 plugins
-[04:28:49] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (6):
+[04:49:17] [ServerMain/INFO]: [PluginInitializerManager] Initialized 24 plugins
+[04:49:17] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (6):
  - LightItUp (1.2), LocatorBarConfiguration (0.4.1), RTPGUI (1.2.0), Veinminer-Enchantment (2.5.0), Voidplate (0.3.1), survival-unlocked (1.4.0)
-[04:28:49] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (18):
+[04:49:17] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (18):
  - BetterHud (1.14.0), Chunky (1.4.40), DeepSeek (1.0.7), GoldPiglin (25.10.1), HarvestEXP (2025.07), ItemJoin (6.1.5-RELEASE-b1109), KillC (1.0), Super_Farming (1.0.1), ViaBackwards (5.5.1), ViaRewind (4.0.11), ViaVersion (5.5.1), We-Friends (1.0), nonchat (1.5.2), tgbridge (0.8.5), voicechat (2.6.6), voicemessages (1.0.11), zHomes (2.1.8), zTPA (1.0.3)
-[04:28:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:28:57] [ServerMain/INFO]: Found new data pack LocatorBarConfiguration/provided, loading it automatically
-[04:28:57] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[04:28:57] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[04:29:01] [ServerMain/INFO]: No existing world data, creating new world
-[04:29:06] [ServerMain/INFO]: Loaded 1407 recipes
-[04:29:06] [ServerMain/INFO]: Loaded 1520 advancements
-[04:29:06] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[04:29:07] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 802.4ms
-[04:29:08] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[04:29:08] [Server thread/INFO]: Loading properties
-[04:29:09] [Server thread/INFO]: This server is running Folia version 1.21.8-6-ver/1.21.8@612d9bd (2025-09-30T14:11:15Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[04:29:09] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:29:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:29:09] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:29:10] [Server thread/INFO]: [MoonriseCommon] Paper is using 4 worker threads, 1 I/O threads
-[04:29:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[04:29:10] [Server thread/INFO]: [io.papermc.paper.threadedregions.TickRegions] Regionised ticking is enabled with 2 tick threads
-[04:29:10] [Server thread/INFO]: Default game type: SURVIVAL
-[04:29:10] [Server thread/INFO]: Generating keypair
-[04:29:10] [Server thread/INFO]: Starting Minecraft server on 146.120.165.140:25565
-[04:29:11] [Server thread/INFO]: Using epoll channel type
-[04:29:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:29:11] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[04:29:11] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
-[04:29:11] [Server thread/WARN]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Cannot assign requested address
-[04:29:11] [Server thread/WARN]: Perhaps a server is already running on that port?
-[04:29:11] [Server thread/ERROR]: Encountered an unexpected exception
+[04:49:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:49:26] [ServerMain/INFO]: Found new data pack LocatorBarConfiguration/provided, loading it automatically
+[04:49:26] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[04:49:26] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[04:49:29] [ServerMain/INFO]: No existing world data, creating new world
+[04:49:34] [ServerMain/INFO]: Loaded 1407 recipes
+[04:49:34] [ServerMain/INFO]: Loaded 1520 advancements
+[04:49:35] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[04:49:34] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 755.4ms
+[04:49:35] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[04:49:35] [Server thread/INFO]: Loading properties
+[04:49:35] [Server thread/INFO]: This server is running Folia version 1.21.8-6-ver/1.21.8@612d9bd (2025-09-30T14:11:15Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[04:49:35] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:49:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:49:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:49:36] [Server thread/INFO]: [MoonriseCommon] Paper is using 4 worker threads, 1 I/O threads
+[04:49:36] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[04:49:36] [Server thread/INFO]: [io.papermc.paper.threadedregions.TickRegions] Regionised ticking is enabled with 2 tick threads
+[04:49:36] [Server thread/INFO]: Default game type: SURVIVAL
+[04:49:36] [Server thread/INFO]: Generating keypair
+[04:49:36] [Server thread/INFO]: Starting Minecraft server on 146.120.165.140:25565
+[04:49:37] [Server thread/INFO]: Using epoll channel type
+[04:49:37] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:49:37] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[04:49:37] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[04:49:37] [Server thread/WARN]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Cannot assign requested address
+[04:49:37] [Server thread/WARN]: Perhaps a server is already running on that port?
+[04:49:37] [Server thread/ERROR]: Encountered an unexpected exception
 java.lang.IllegalStateException: Failed to bind to port
 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:230) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1246) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:353) ~[folia-1.21.8.jar:1.21.8-6-612d9bd]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Cannot assign requested address
-[04:29:11] [Server thread/ERROR]: This crash report has been saved to: /mnt/c/Users/bohdan/Documents/GitHub/mserver/crash-reports/crash-2025-10-24_04.29.11-server.txt
-[04:29:11] [Region shutdown thread/INFO]: [RegionShutdownThread] Awaiting scheduler termination for 60s...
-[04:29:11] [Region shutdown thread/INFO]: [RegionShutdownThread] Scheduler halted
-[04:29:11] [Region shutdown thread/INFO]: Stopping server
-[04:29:11] [Region shutdown thread/INFO]: [RegionShutdownThread] Halting chunk systems...
-[04:29:11] [Region shutdown thread/INFO]: [RegionShutdownThread] Halted chunk systems
-[04:29:11] [Region shutdown thread/INFO]: [RegionShutdownThread] Finishing pending teleports...
-[04:29:11] [Region shutdown thread/INFO]: [RegionShutdownThread] Finished pending teleports
-[04:29:11] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving all worlds
-[04:29:11] [Region shutdown thread/INFO]: [RegionShutdownThread] Saved all worlds
-[04:29:11] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving all player data...
-[04:29:11] [Region shutdown thread/INFO]: [RegionShutdownThread] Saved all player data
-[04:29:11] [Region shutdown thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[04:29:11] [Region shutdown thread/INFO]: All RegionFile I/O tasks to complete
-[04:29:11] [Region shutdown thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[04:29:11] [Region shutdown thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[04:49:37] [Server thread/ERROR]: This crash report has been saved to: /mnt/c/Users/bohdan/Documents/GitHub/mserver/crash-reports/crash-2025-10-24_04.49.37-server.txt
+[04:49:37] [Region shutdown thread/INFO]: [RegionShutdownThread] Awaiting scheduler termination for 60s...
+[04:49:37] [Region shutdown thread/INFO]: [RegionShutdownThread] Scheduler halted
+[04:49:37] [Region shutdown thread/INFO]: Stopping server
+[04:49:37] [Region shutdown thread/INFO]: [RegionShutdownThread] Halting chunk systems...
+[04:49:37] [Region shutdown thread/INFO]: [RegionShutdownThread] Halted chunk systems
+[04:49:37] [Region shutdown thread/INFO]: [RegionShutdownThread] Finishing pending teleports...
+[04:49:37] [Region shutdown thread/INFO]: [RegionShutdownThread] Finished pending teleports
+[04:49:37] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving all worlds
+[04:49:37] [Region shutdown thread/INFO]: [RegionShutdownThread] Saved all worlds
+[04:49:37] [Region shutdown thread/INFO]: [RegionShutdownThread] Saving all player data...
+[04:49:37] [Region shutdown thread/INFO]: [RegionShutdownThread] Saved all player data
+[04:49:37] [Region shutdown thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[04:49:37] [Region shutdown thread/INFO]: All RegionFile I/O tasks to complete
+[04:49:37] [Region shutdown thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[04:49:37] [Region shutdown thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
