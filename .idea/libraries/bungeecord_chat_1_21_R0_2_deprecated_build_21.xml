@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bungeecord-chat-1.21-R0.2-deprecated+build.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/net/md-5/bungeecord-chat/1.21-R0.2-deprecated+build.21/bungeecord-chat-1.21-R0.2-deprecated+build.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

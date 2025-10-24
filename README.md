@@ -1,5 +1,6 @@
-# mserver
+# Minecraft-PP
  Minecraft-PP is my minecraft server
+ I'm developing a Minecraft-PP project with my friends
  ## Features:
  - RTP
  - TPA

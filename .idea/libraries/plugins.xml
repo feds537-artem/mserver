@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/ItemJoin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/GoldPiglin-25.10.1-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/ViaBackwards-5.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/KotKit-1.0.2-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/DownloadPlugin-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/zHomes-2.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/survival-unlocked-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/stuck-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/zTPA-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/nonchat-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/ViaRewind-4.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/voicemessages-paper-1.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/InventoryFull-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LocatorBarConfiguration-0.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/BetterInvisibility-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/tgbridge-0.8.5-paper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/NetherCalculator-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/WeFriends.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/Super_Farming-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/LightItUp-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/BetterHud-bukkit-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/DeepSeek-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/opentolan-1.0-ALPHA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/voicechat-bukkit-2.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/HarvestEXP 2025.07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/ViaVersion-5.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/Voidplate-0.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/veinminer-enchant-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/Chunky-Bukkit-1.4.40.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/Rules-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/rtp-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/killc-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

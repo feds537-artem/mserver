@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="folia-1.21.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/versions/1.21.8/folia-1.21.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
