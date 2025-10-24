@@ -10,3 +10,6 @@ I'm developing a Minecraft-PP project with my friends
  - Survival
  - You can fork it and add more plugins/features!
  - And more!
+ ## IP and port
+ IP:192.168.31.220
+ Port:58426
